@@ -1,1 +1,5 @@
+.ipynb_checkpoints/
+LightGBM/
+caravan-insurance-challenge.csv
 results/gbm_trials.csv
+.ipynb_checkpoints/
